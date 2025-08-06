@@ -1,6 +1,11 @@
 # Samuel Ottoni Penido
 
-Computer Scientist and software developer focused on Data Engineering.
+Computer Scientist and Full Stack Developer specialized in Data Engineering, Computer Vision, and AI Automation.
 
 Currently working as an ETL Developer at [SHUD](https://github.com/shudbr).
 
+## Specializations
+- Computer Vision & Artificial Intelligence
+- Data Collection & Process Automation
+- Big Data Processing & Analysis
+- Mobile Application Development
