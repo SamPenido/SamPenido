@@ -6,7 +6,7 @@
 >
 > First lines of code in 2013 — Java, Minecraft servers and modified PvP clients. Same energy, bigger problems.
 
-<img src="https://mc-heads.net/player/TheMortalPvP/120" alt="TheMortalPvP" height="140" />
+<img src="https://mc-heads.net/head/TheMortalPvP/80" alt="TheMortalPvP" width="80" />
 
 ## Now
 
@@ -14,12 +14,10 @@ Developer at **[SHUD](https://github.com/shudbr)**.
 
 ## Projects
 
-- **[Bomia](https://bomia.com.br/)** — Computer vision for industrial monitoring. Cameras watching plants, real-time inference, alerts.
-- **[Bomia Sistemas](https://sistemas.bomia.com.br/)** — Operational data platform for charcoal production. End-to-end records across silviculture, carbonization, sintering and fleet, fed by computer vision models.
+- **[Bomia](https://bomia.com.br/)** — Computer vision for industrial monitoring. Cameras watching plants, real-time inference and alerts.
+- **[Bomia Sistemas](https://sistemas.bomia.com.br/)** — Operational management platform for charcoal production. Modules for forestry, carbonization, kiln loading, discharge, laboratory, fleet and an AI assistant (Bominha), fed by computer vision models.
+  <br/>*Laravel 12 · Vue 3 · Inertia.js · PostgreSQL · Redis*
 
 ## Focus
 
-- Computer Vision & Applied AI
-- Big Data Processing & Analytics
-- Industrial Automation & Monitoring
-- Full Stack Engineering
+Computer Vision · Big Data · Industrial Automation · Full Stack
