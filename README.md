@@ -1,12 +1,14 @@
+<img src="https://mc-heads.net/head/TheMortalPvP/48" width="48" align="right" alt="TheMortalPvP" />
+
 # Samuel Ottoni Penido
 
-> **Full Stack Developer** — Computer Vision & Big Data
->
-> Computer Scientist building vision systems and data platforms for industrial operations.
->
-> First lines of code in 2013 — Java, Minecraft servers and modified PvP clients. Same energy, bigger problems.
+**Computer Scientist**
 
-<img src="https://mc-heads.net/head/TheMortalPvP/80" alt="TheMortalPvP" width="80" />
+Specialized in Computer Vision. Full stack by trade.
+
+First lines of code in 2013 — Java, Minecraft servers and modified PvP clients. Same energy, bigger problems.
+
+---
 
 ## Now
 
