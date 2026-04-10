@@ -16,7 +16,7 @@ Developer at **[SHUD](https://github.com/shudbr)**.
 
 ## Projects
 
-- **[Bomia](https://bomia.com.br/)** — Computer vision for industrial monitoring. Cameras watching plants, real-time inference and alerts.
+- **[Bomia](https://bomia.com.br/)** — Computer vision and custom sensor hardware for industrial monitoring. Real-time inference, alerts and automated plant-wide data collection.
 - **[Bomia Sistemas](https://sistemas.bomia.com.br/)** — Operational management platform for charcoal production. Modules for forestry, carbonization, kiln loading, discharge, laboratory, fleet and an AI assistant (Bominha), fed by computer vision models.
 
 ## Focus
