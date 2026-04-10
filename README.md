@@ -12,7 +12,7 @@ First lines of code in 2013 — Java, Minecraft servers and modified PvP clients
 
 ## Now
 
-- Developer at **[SHUD](https://github.com/shudbr)**
+- Developer at **[SHUD](https://shud.com.br/)**
 - Founder of **[Owney](https://owney.com.br)** — custom software development on demand
 
 ## Current projects
