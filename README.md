@@ -6,7 +6,7 @@
 
 Specialized in Computer Vision. Full stack by trade.
 
-First lines of code in 2013 — Java, Minecraft servers and modified PvP clients. Same energy, bigger problems.
+First lines of code in 2015 — Java, Minecraft servers and modified PvP clients. Same energy, bigger problems.
 
 ---
 
