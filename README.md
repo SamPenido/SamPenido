@@ -4,7 +4,7 @@
 
 **Computer Scientist**
 
-I just like to solve a few problems. Full stack by trade.
+I just like to solve some problems. Full stack by trade.
 
 First lines of code in 2015 Java, Minecraft servers and modified PvP clients. Same energy, bigger problems.
 
