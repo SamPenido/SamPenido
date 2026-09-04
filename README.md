@@ -12,5 +12,5 @@ First lines of code in 2015 Java, Minecraft servers and modified PvP clients. Sa
 
 ## Now
 
-- Developer at **[SHUD](https://shud.com.br/)**
+- Working at **[SHUD](https://shud.com.br/)**
 - Founder of **[Owney](https://owney.com.br)**
