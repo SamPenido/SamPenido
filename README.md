@@ -1,4 +1,4 @@
-<img src="https://mc-heads.net/head/Tringed/48" width="48" align="right" alt="TheMortalPvP" />
+<img src="https://mc-heads.net/head/Tringed/48" width="48" align="right" alt="Tringed" />
 
 # Samuel Ottoni Penido
 
